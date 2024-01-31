@@ -1,2 +1,2 @@
 # dotfiles
-Bout time to track these thangs for that Codespaces life
+Personal shell config settings. Tracking them in GitHub for seamless Codespaces hoppin! https://docs.github.com/en/codespaces/setting-your-user-preferences/personalizing-github-codespaces-for-your-account#dotfiles
